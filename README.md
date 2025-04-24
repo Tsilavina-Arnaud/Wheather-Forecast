@@ -19,7 +19,7 @@ A simple weather forecasting app built using **Vue.js 3** (frontend) and **Larav
 
 ## 📌 Notes
 
-- Weather data is fetched from ** wheatherapi.com**
+- Weather data is fetched from **wheatherapi.com**
 - Clothing suggestions are based on temperature and conditions
 - Line chart shows temperature fluctuations throughout the day
 
